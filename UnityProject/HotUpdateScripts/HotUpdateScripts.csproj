@@ -31,6 +31,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Program.cs" />
+    <Compile Include="DuplicateTrigger.cs" />
     <Compile Include="JEngine\Core\JSaver.cs" />
     <Compile Include="JEngine\Core\JObjectPool.cs" />
     <Compile Include="JEngine\Core\JBehaviour.cs" />
